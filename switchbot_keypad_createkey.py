@@ -40,7 +40,7 @@ body = {
 
 token = ''
 secret = ''
-deviceId = ''
+deviceId = 'E3BC83BBDE5F'
 
 header = gensign(token, secret)
 
